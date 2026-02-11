@@ -22,6 +22,3 @@ The Rampage Clinometer is a custom-built device designed to measure pitch, yaw, 
 
 ## Contribution
 This project was contributed by **Matthew Bishop**.
-
-## License
-This project is open source. Feel free to modify and use it as needed.
